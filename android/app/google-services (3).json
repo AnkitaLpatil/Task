@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75903377943",
+    "project_id": "users-afe21",
+    "storage_bucket": "users-afe21.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75903377943:android:c896de8bb98084b0e07252",
+        "android_client_info": {
+          "package_name": "com.example.firebasewebtrix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuI_RxyMwK4h64n5916MtGby5f9pxmHMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
